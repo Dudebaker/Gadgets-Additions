@@ -1,4 +1,4 @@
-# AddGadgets.com-styled-Additionals
+# AddGadgets.com styled Additionals
 A Rainmeter skin suite which contains currently the following skins:
 
 <ul>
