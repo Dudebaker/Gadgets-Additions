@@ -1,0 +1,25 @@
+[Variables]
+Crypto1=bitcoin
+Crypto1NumOfDecimals=2
+Crypto1Target=USD
+Crypto1TargetSymbol=$
+Crypto2=gridcoin
+Crypto2NumOfDecimals=4
+Crypto2Target=USD
+Crypto2TargetSymbol=$
+Crypto3=bitradio
+Crypto3NumOfDecimals=3
+Crypto3Target=USD
+Crypto3TargetSymbol=$
+Crypto4=litecoin
+Crypto4NumOfDecimals=2
+Crypto4Target=USD
+Crypto4TargetSymbol=$
+Crypto5=bitradio
+Crypto5NumOfDecimals=3
+Crypto5Target=USD
+Crypto5TargetSymbol=$
+; Settings
+Width=146
+CountCrypto=3
+RefreshRate=60
