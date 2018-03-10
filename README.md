@@ -14,4 +14,4 @@ https://forum.rainmeter.net/viewtopic.php?f=27&t=26610<br>
 Rainmeter must be installed to use this skin:<br>
 https://www.rainmeter.net/<br>
 <br>
-<img src=https://forum.rainmeter.net/download/file.php?id=14828&mode=view&n=Set.PNG">
+<img src="https://forum.rainmeter.net/download/file.php?id=15981&mode=view&n=Set%20v1.1.png">
