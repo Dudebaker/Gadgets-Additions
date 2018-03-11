@@ -1,5 +1,5 @@
 # AddGadgets.com styled Additionals
-A Rainmeter skin suite which contains currently the following skins:
+A Rainmeter skin suite witch contains currently the following skins:
 
 <ul>
 <li>Audio Visualizer</li>
