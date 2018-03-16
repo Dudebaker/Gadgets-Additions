@@ -9,8 +9,8 @@ Crypto2Target=BTC
 Crypto2TargetSymbol=B
 Crypto3=grc
 Crypto3NumOfDecimals=4
-Crypto3Target=EUR
-Crypto3TargetSymbol=€
+Crypto3Target=USD
+Crypto3TargetSymbol=$
 Crypto4=ltc
 Crypto4NumOfDecimals=5
 Crypto4Target=USD
@@ -21,5 +21,5 @@ Crypto5Target=GRC
 Crypto5TargetSymbol=G
 ; Settings
 Width=146
-CountCrypto=5
+CountCrypto=3
 RefreshRate=60

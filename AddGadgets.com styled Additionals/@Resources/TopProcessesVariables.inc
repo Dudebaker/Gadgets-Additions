@@ -17,14 +17,14 @@ PerfMonIndicatorSecondRamDE=Arbeitsseiten - privat
 PerfMonIndicatorSecondRamFR=Plage de travail - Privée
 PerfMonIndicatorSecondRamCustom=Arbeitsseiten
 ; Language Settings
-lang=Custom
-langEN=0
+lang=EN
+langEN=1
 langDE=0
 langFR=0
-langCustom=1
+langCustom=0
 ; Settings
 Height=235
 Width=146
-CountCPU=5
-CountRAM=5
+CountCPU=10
+CountRAM=10
 RefreshRate=1000
