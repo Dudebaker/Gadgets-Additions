@@ -14,4 +14,4 @@ http://fav.me/dc5kcz5<br>
 Rainmeter must be installed to use this skin:<br>
 https://www.rainmeter.net/<br>
 <br>
-<img src="https://forum.rainmeter.net/download/file.php?id=15983&mode=view&n=Set%20v1.1.png">
+<img src="https://orig00.deviantart.net/32a1/f/2018/076/5/f/addgadgets_com_styled_additionals_v1_1_1_by_dudebaker-dc5kcz5.png">
