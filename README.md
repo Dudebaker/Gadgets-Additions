@@ -8,8 +8,8 @@ A Rainmeter skin suite which contains currently the following skins:
 <li>GridCointStats Tracker</li>
 <li>Top Processes</li>
 </ul><br>
-Link to Rainmeter forum thread with changelog and complete description:<br>
-https://forum.rainmeter.net/viewtopic.php?f=27&t=26610<br>
+Detailed descriptions and changelogs for each skin can be found on DeviantArt site:<br>
+http://fav.me/dc5kcz5<br>
 <br>
 Rainmeter must be installed to use this skin:<br>
 https://www.rainmeter.net/<br>
