@@ -4,7 +4,7 @@ A Rainmeter skin suite which contains currently the following skins:
 <ul>
 <li>Audio Visualizer</li>
 <li>BOINCstats Tracker</li>
-<li>Crypto Tracker</li>
+<li>Cryptocurrency Tracker</li>
 <li>GridcoinStats Tracker</li>
 <li>Top Processes</li>
 </ul><br>
