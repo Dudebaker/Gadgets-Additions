@@ -8,7 +8,7 @@ ImgWidth=72.5
 ImgHeight=340
 RMSAttack=10
 RMSDecay=333
-RMSGain=1.3
+RMSGain=2
 FFTSize=1024
 FFTAttack=10
 FFTDecay=333
@@ -34,4 +34,4 @@ mtrEQRightY=#mtrBg#
 mtrEQRightX=(#Width# / 2 - #borderSize#)
 UpdateDeviceAndPercentageAndBar=5
 ; Output
-LastKnownOutput=Lautsprecher Klinke
+LastKnownOutput=Headset

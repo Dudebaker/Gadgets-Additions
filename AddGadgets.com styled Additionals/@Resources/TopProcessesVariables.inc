@@ -25,6 +25,6 @@ langCustom=0
 ; Settings
 Height=235
 Width=146
-CountCPU=10
-CountRAM=10
+CountCPU=7
+CountRAM=7
 RefreshRate=1000
