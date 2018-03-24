@@ -1,14 +1,14 @@
 [Variables]
 ; Settings
 HideHistory=0
-HidePeakGrey=1
+HidePeakGrey=0
 HidePeakColored=1
 HideBand=0
 ImgWidth=72.5
 ImgHeight=340
 RMSAttack=10
 RMSDecay=333
-RMSGain=2
+RMSGain=1.3
 FFTSize=1024
 FFTAttack=10
 FFTDecay=333
@@ -34,4 +34,4 @@ mtrEQRightY=#mtrBg#
 mtrEQRightX=(#Width# / 2 - #borderSize#)
 UpdateDeviceAndPercentageAndBar=5
 ; Output
-LastKnownOutput=Headset
+LastKnownOutput=Lautsprecher Klinke
