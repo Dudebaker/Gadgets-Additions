@@ -1,7 +1,7 @@
 [Variables]
 ; Settings
 HideHistory=0
-HidePeakGrey=0
+HidePeakGrey=1
 HidePeakColored=1
 HideBand=0
 ImgWidth=72.5

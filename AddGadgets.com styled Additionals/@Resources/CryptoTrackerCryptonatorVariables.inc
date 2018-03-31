@@ -21,5 +21,5 @@ Crypto5Target=GRC
 Crypto5TargetSymbol=G
 ; Settings
 Width=146
-CountCrypto=3
+CountCrypto=5
 RefreshRate=60

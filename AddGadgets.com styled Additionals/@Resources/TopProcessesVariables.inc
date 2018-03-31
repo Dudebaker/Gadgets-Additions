@@ -26,5 +26,5 @@ langCustom=0
 Height=235
 Width=146
 CountCPU=7
-CountRAM=7
+CountRAM=5
 RefreshRate=1000
