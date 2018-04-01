@@ -1,7 +1,7 @@
 [Variables]
 Currency1=EURUSD
 Currency2=GBPEUR
-Currency3=XAUUSD
+Currency3=USDJPY
 Currency4=XAUUSD
 Currency5=USDEUR
 ; Settings

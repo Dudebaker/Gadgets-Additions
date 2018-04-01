@@ -33,5 +33,4 @@ mtrEQLeft=#mtrBg#
 mtrEQRightY=#mtrBg#
 mtrEQRightX=(#Width# / 2 - #borderSize#)
 UpdateDeviceAndPercentageAndBar=5
-; Output
-LastKnownOutput=Lautsprecher Klinke
+LastKnownDevice=Lautsprecher Klinke
