@@ -33,8 +33,8 @@ Market5=Solarcoin
 Market5NumOfDecimals=3
 Market5Target=USD
 ; These variables get changed by the skin
-Market1GraphBaseValue=9321.88
-Market2GraphBaseValue=0.02745
-Market3GraphBaseValue=0.05662
-Market4GraphBaseValue=0.14014
-Market5GraphBaseValue=0.4458
+Market1GraphBaseValue=0
+Market2GraphBaseValue=0
+Market3GraphBaseValue=0
+Market4GraphBaseValue=0
+Market5GraphBaseValue=0
