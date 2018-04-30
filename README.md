@@ -11,8 +11,8 @@ A Rainmeter skin suite which contains currently the following skins:
 <li>Recycle Bin</li>
 <li>Shortcuts</li>
 <li>Stocks</li>
-<li>Volume Control</li>
 <li>Usage Monitor</li>
+<li>Volume Control</li>
 </ul><br>
 Detailed descriptions and changelogs for each skin can be found on <a href="http://fav.me/dc5kcz5">DeviantArt site</a>.<br>
 <br>
