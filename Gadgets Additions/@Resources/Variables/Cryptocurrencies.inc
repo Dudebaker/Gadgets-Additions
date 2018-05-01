@@ -32,9 +32,3 @@ Market4Target=USD
 Market5=Solarcoin
 Market5NumOfDecimals=3
 Market5Target=USD
-; These variables get changed by the skin
-Market1GraphBaseValue=0
-Market2GraphBaseValue=0
-Market3GraphBaseValue=0
-Market4GraphBaseValue=0
-Market5GraphBaseValue=0
