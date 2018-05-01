@@ -4,7 +4,7 @@ Scale=1.00
 WidthInput=160
 ; Settings
 CountSection1=5
-RefreshRate=60
+RefreshRate=1
 ; Font Name/Color
 FontColorMarketTitle=255,255,255,192
 FontColorMarketTitlePriceChange=255,204,0,255
