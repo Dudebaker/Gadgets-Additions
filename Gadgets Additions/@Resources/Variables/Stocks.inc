@@ -16,4 +16,4 @@ Market1=INDU:IND
 Market2=DAX:IND
 Market3=GOOGL:US
 Market4=MSFT:US
-Market5=AAPL:US
+Market5=SPX:IND
