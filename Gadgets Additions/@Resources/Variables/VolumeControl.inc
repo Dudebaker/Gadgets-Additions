@@ -6,7 +6,7 @@ FontColorPercent=107,198,250,255
 ; Peak/Line
 RMSAttack=100
 RMSDecay=300
-RMSGain=1.5
+RMSGain=2
 ; Spectrum
 FFTAttack=15
 FFTDecay=150

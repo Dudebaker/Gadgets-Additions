@@ -12,8 +12,8 @@ FontColorMarketValue=107,198,250,255
 FontColorMarketUp=0,255,0,255
 FontColorMarketDown=255,0,0,255
 ; Stocks
-Market1=INDU:IND
-Market2=DAX:IND
-Market3=GOOGL:US
-Market4=MSFT:US
-Market5=SPX:IND
+Market1=.DJIA
+Market2=DAX
+Market3=GOOGL
+Market4=@GC.1
+Market5=.SPX

@@ -12,18 +12,8 @@ FontColorMarketValue=107,198,250,255
 FontColorMarketUp=0,255,0,255
 FontColorMarketDown=255,0,0,255
 ; Currencies
-; 1
-Market1=USD
-Market1Target=EUR
-; 2
-Market2=GBP
-Market2Target=EUR
-; 3
-Market3=EUR
-Market3Target=USD
-; 4
-Market4=JPY
-Market4Target=USD
-; 5
-Market5=XAU
-Market5Target=USD
+Market1=USDEUR
+Market2=GBP%3D
+Market3=EUR%3D
+Market4=JPY%3D
+Market5=EURCHF%3D
