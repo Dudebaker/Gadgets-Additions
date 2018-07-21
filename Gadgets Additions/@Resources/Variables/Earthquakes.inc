@@ -21,6 +21,6 @@ FontColorDate=107,198,250,255
 FontColorDescription=255,204,0,255
 FontColorEarthquakeValues=224,224,224,255
 ; These variables get changed by the skin
-ImageURL=https://www.emsc-csem.org/Images/EVID/69/691/691556/691556.global.thumb.jpg
+ImageURL=https://www.emsc-csem.org
 GlobeTitle=2018-05-21 14:31:46 UTC
-EntryViewsTitle=2018-07-11 17:52:02 UTC
+EntryViewsTitle=2018-07-21 16:47:14 UTC

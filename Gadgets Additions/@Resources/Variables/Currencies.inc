@@ -15,5 +15,5 @@ FontColorMarketDown=255,0,0,255
 Market1=USDEUR
 Market2=GBP%3D
 Market3=EUR%3D
-Market4=JPY%3D
+Market4=JPY=
 Market5=EURCHF%3D
