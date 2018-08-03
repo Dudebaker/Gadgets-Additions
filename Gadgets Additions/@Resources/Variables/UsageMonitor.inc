@@ -14,7 +14,7 @@ CountIORead=4
 CountIOWrite=4
 CountCustom=5
 ; Custom
-CustomEnable=0
+CustomEnable=1
 CustomName=Working Set
 CustomCategory=Process 
 CustomCounter=Working Set
