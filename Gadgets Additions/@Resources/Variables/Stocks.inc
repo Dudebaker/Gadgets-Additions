@@ -1,6 +1,7 @@
 [Variables]
 ; Size
 Scale=1.00
+Opacity=255
 WidthInput=160
 ; Settings
 CountSection1=5

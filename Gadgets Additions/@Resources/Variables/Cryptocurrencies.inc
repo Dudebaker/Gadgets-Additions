@@ -1,10 +1,11 @@
 [Variables]
 ; Size
 Scale=1.00
+Opacity=255
 WidthInput=160
 ; Settings
 CountSection1=5
-RefreshRate=3600
+RefreshRate=10
 ; Font Name/Color
 FontColorMarketTitle=255,255,255,192
 FontColorMarketTitlePriceChange=255,204,0,255

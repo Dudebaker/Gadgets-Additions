@@ -1,6 +1,7 @@
 [Variables]
 ; Size
 Scale=1.00
+Opacity=255
 WidthInput=160
 ; Settings
 CountSection1=5
@@ -15,5 +16,5 @@ FontColorMarketDown=255,0,0,255
 Market1=USDEUR
 Market2=GBP%3D
 Market3=EUR%3D
-Market4=JPY=
+Market4=GBPEUR=
 Market5=EURCHF%3D

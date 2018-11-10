@@ -21,6 +21,7 @@ A Rainmeter skin suite which contains currently the following skins:
 <li>Shortcuts</li>
 <li>Shutdown Control</li>
 <li>Stocks</li>
+<li>System Info</li>
 <li>Usage Monitor</li>
 <li>Volume Control</li>
 </ul><br>

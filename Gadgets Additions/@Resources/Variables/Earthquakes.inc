@@ -1,11 +1,12 @@
 [Variables]
 ; Size
 Scale=1.00
+Opacity=255
 WidthInput=160
 HeightInput=76
-WidthEntryViews=320
-WidthEurope=480
-WidthWorld=800
+WidthEntryViews=160
+WidthEurope=320
+WidthWorld=320
 ; Settings
 URLInput=https://www.emsc-csem.org/service/rss/rss.php?typ=emsc&map_epicenter=true
 RefreshRate=300
@@ -21,6 +22,6 @@ FontColorDate=107,198,250,255
 FontColorDescription=255,204,0,255
 FontColorEarthquakeValues=224,224,224,255
 ; These variables get changed by the skin
-ImageURL=https://www.emsc-csem.org/Images/EVID/70/703/703646/703646.global.thumb.jpg
+ImageURL=https://www.emsc-csem.org/Images/EVID/72/724/724495/724495.global.thumb.jpg
 GlobeTitle=2018-05-21 14:31:46 UTC
-EntryViewsTitle=2018-08-02 14:53:57 UTC
+EntryViewsTitle=2018-11-10 14:11:54 UTC
