@@ -5,7 +5,7 @@ Opacity=255
 WidthInput=160
 ; Settings
 CountSection1=5
-RefreshRate=10
+RefreshRate=300
 ; Font Name/Color
 FontColorMarketTitle=255,255,255,192
 FontColorMarketTitlePriceChange=255,204,0,255
