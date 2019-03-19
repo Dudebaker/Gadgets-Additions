@@ -29,4 +29,4 @@ Detailed descriptions and changelogs for each skin can be found on <a href="http
 <br>
 <a href="https://www.rainmeter.net/">Rainmeter</a> must be installed to use this skin!<br>
 <br>
-<img src="https://forum.rainmeter.net/download/file.php?id=17836&mode=view">
+<img src="https://forum.rainmeter.net/download/file.php?id=18963&mode=view">
