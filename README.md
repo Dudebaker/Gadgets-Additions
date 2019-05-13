@@ -1,5 +1,5 @@
 # Gadgets Additions
-A Rainmeter skin suite which contains currently the following skins:
+A Rainmeter skin suite which contains the following skins:
 
 <ul>
 <li>BOINCstats</li>
