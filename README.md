@@ -1,5 +1,9 @@
 # Gadgets Additions
-A Rainmeter skin suite which contains the following skins:
+
+System, Web, Markets and BOINC monitoring inspired by the AddGadgets.com (and Orbmu2k) Windows Sidebar Gadgets.
+
+Created as addition to <a href="http://fav.me/d8n4kvx">SilverAzide's suite</a> to complete the transition of the AddGadgets.com collection from Windows Sidebar Gadgets to Rainmeter.<br>
+Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in this past era, some of them were also reinvented in this suite.
 
 <ul>
 <li>BOINCstats</li>
@@ -24,9 +28,10 @@ A Rainmeter skin suite which contains the following skins:
 <li>System Info</li>
 <li>Usage Monitor</li>
 <li>Volume Control</li>
-</ul><br>
-Detailed descriptions and changelogs for each skin can be found on <a href="http://fav.me/dc5kcz5">DeviantArt site</a>.<br>
-<br>
-<a href="https://www.rainmeter.net/">Rainmeter</a> must be installed to use this skin!<br>
-<br>
+</ul>
+
+Detailed descriptions for each skin can be found on <a href="http://fav.me/dc5kcz5">DeviantArt site</a>.
+
+<a href="https://www.rainmeter.net/">Rainmeter</a> must be installed to use this skin!
+
 <img src="https://forum.rainmeter.net/download/file.php?id=18963&mode=view">
