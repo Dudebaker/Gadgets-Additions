@@ -1,7 +1,5 @@
 # Gadgets Additions
 
-System, Web, Markets and BOINC monitoring inspired by the AddGadgets.com (and Orbmu2k) Windows Sidebar Gadgets.
-
 Created as addition to <a href="http://fav.me/d8n4kvx">SilverAzide's suite</a> to complete the transition of the AddGadgets.com collection from Windows Sidebar Gadgets to Rainmeter.<br>
 Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in this past era, some of them were also reinvented in this suite.
 
