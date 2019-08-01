@@ -9,7 +9,10 @@ Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in t
 <li>Currencies</li>
 <li>Earthquakes</li>
 <li>Gallery</li>
+<li>Gallery Instagram</li>
+<li>Gallery Unsplash</li>
 <li>Gallery Web</li>
+<li>Keylocks</li>
 <li>GridcoinStats</li>
 <li>Launcher</li>
 <li>Media Control (Local player, Spotify, WebNowPlaying)</li>
@@ -18,6 +21,7 @@ Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in t
 <li>Power Control</li>
 <li>Recycle Bin</li>
 <li>RSS Reader</li>
+<li>RSS Reader Alternative (reddit)</li>
 <li>Search</li>
 <li>Search Web</li>
 <li>Shortcuts</li>
@@ -25,11 +29,11 @@ Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in t
 <li>Stocks</li>
 <li>System Info</li>
 <li>Usage Monitor</li>
-<li>Volume Control</li>
+<li>Volume Control with multiple sound analyzers</li>
 </ul>
 
 Detailed descriptions for each skin can be found on <a href="http://fav.me/dc5kcz5">DeviantArt site</a>.
 
 <a href="https://www.rainmeter.net/">Rainmeter</a> must be installed to use this skin!
 
-<img src="https://forum.rainmeter.net/download/file.php?id=18963&mode=view">
+<img src="https://forum.rainmeter.net/download/file.php?id=19436&mode=view">
