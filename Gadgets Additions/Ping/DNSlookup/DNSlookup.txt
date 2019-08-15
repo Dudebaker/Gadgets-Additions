@@ -1,0 +1,18 @@
+google.com.		299	IN	A	172.217.5.238
+google.com.		299	IN	AAAA	2607:f8b0:4004:804::200e
+google.com.		3599	IN	TXT	"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"
+google.com.		21599	IN	NS	ns2.google.com.
+google.com.		3599	IN	TXT	"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="
+google.com.		599	IN	MX	10 aspmx.l.google.com.
+google.com.		21599	IN	NS	ns1.google.com.
+google.com.		599	IN	MX	40 alt3.aspmx.l.google.com.
+google.com.		299	IN	TXT	"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e"
+google.com.		299	IN	TXT	"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"
+google.com.		21599	IN	NS	ns4.google.com.
+google.com.		21599	IN	NS	ns3.google.com.
+google.com.		599	IN	MX	30 alt2.aspmx.l.google.com.
+google.com.		599	IN	MX	50 alt4.aspmx.l.google.com.
+google.com.		599	IN	MX	20 alt1.aspmx.l.google.com.
+google.com.		21599	IN	CAA	0 issue "pki.goog"
+google.com.		3599	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+google.com.		59	IN	SOA	ns1.google.com. dns-admin.google.com. 263313904 900 900 1800 60
