@@ -12,6 +12,8 @@ Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in t
 <li>Gallery Instagram</li>
 <li>Gallery Unsplash</li>
 <li>Gallery Web</li>
+<li>GPU Load (HWiNFO required)</li>
+<li>HWiNFO Monitor (HWiNFO required)</li>  
 <li>Keylocks</li>
 <li>GridcoinStats</li>
 <li>Launcher</li>
