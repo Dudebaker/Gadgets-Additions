@@ -5,13 +5,13 @@ Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in t
 
 <ul>
 <li>BOINCstats</li>
+<li>Console</li>  
 <li>Cryptocurrencies</li>
 <li>Currencies</li>
 <li>Earthquakes</li>
 <li>Gallery</li>
 <li>Gallery Instagram</li>
 <li>Gallery Unsplash</li>
-<li>Gallery Web</li>
 <li>GPU Load (HWiNFO required)</li>
 <li>HWiNFO Monitor (HWiNFO required)</li>  
 <li>Keylocks</li>
