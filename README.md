@@ -1,41 +1,56 @@
+[![](https://forum.rainmeter.net/download/file.php?id=19436&mode=view)](https://forum.rainmeter.net/download/file.php?id=19436&mode=view)
+
 # Gadgets Additions
 
-Created as addition to <a href="http://fav.me/d8n4kvx">SilverAzide's suite</a> to complete the transition of the AddGadgets.com collection from Windows Sidebar Gadgets to Rainmeter.<br>
-Since Orbmu2k's Windows Sidebar Gadgets completed the AddGadgets collection in this past era, some of them were also reinvented in this suite.
+**Desktop monitoring inspired by the AddGadgets.com (and Orbmu2k) Windows Sidebar Gadgets.**
 
-<ul>
-<li>BOINCstats</li>
-<li>Console</li>  
-<li>Cryptocurrencies</li>
-<li>Currencies</li>
-<li>Earthquakes</li>
-<li>Gallery</li>
-<li>Gallery Instagram</li>
-<li>Gallery Unsplash</li>
-<li>GPU Load (HWiNFO required)</li>
-<li>HWiNFO Monitor (HWiNFO required)</li>  
-<li>Keylocks</li>
-<li>GridcoinStats</li>
-<li>Launcher</li>
-<li>Media Control (Local player, Spotify, WebNowPlaying)</li>
-<li>Notes</li>
-<li>Ping</li>
-<li>Power Control</li>
-<li>Recycle Bin</li>
-<li>RSS Reader</li>
-<li>RSS Reader Alternative (reddit)</li>
-<li>Search</li>
-<li>Search Web</li>
-<li>Shortcuts</li>
-<li>Shutdown Control</li>
-<li>Stocks</li>
-<li>System Info</li>
-<li>Usage Monitor</li>
-<li>Volume Control with multiple sound analyzers</li>
-</ul>
+This suite was created as addition to [SilverAzide's suite](https://github.com/SilverAzide/Gadgets) to complete the move of our beloved Addgadgets.com collection from Windows Sidebar-Gadgets to Rainmeter.
+Since many things like power control or volume control were never covered by Addgadgets, Orbmu2k's gadgets were a great addition at the time, so some gadgets were also redone for the suite.
+Over time many more gadgets have been added which none of them ever had.
 
-Detailed descriptions for each skin can be found on <a href="http://fav.me/dc5kcz5">DeviantArt site</a>.
+**[Click here to download the latest release (v4.3.1)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.3.1/Gadgets.Additions_4.3.1.rmskin)**
 
-<a href="https://www.rainmeter.net/">Rainmeter</a> must be installed to use this skin!
+**[Rainmeter 4.3](https://www.rainmeter.net/) and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or newer required to use this suite!**
 
-<img src="https://forum.rainmeter.net/download/file.php?id=19436&mode=view">
+**Compatible with Windows 7, 8 and 10**
+
+## Included Skins
+**Media Skins**
+* Media Control (Local player, Spotify, WebNowPlaying)
+* Volume Control with multiple sound analyzers
+
+**System Skins**
+* Console
+* Gallery
+* GPU Load (HWiNFO required)
+* HWiNFO Monitor (HWiNFO required)
+* Keylocks
+* Launcher
+* Notes
+* Ping
+* Power Control
+* Recycle Bin
+* Search
+* Shortcuts
+* Shutdown Control
+* System Info
+* Usage Monitor
+
+**Web Skins**
+* Earthquakes
+* Gallery Instagram
+* Gallery Unsplash
+* RSS Reader
+* RSS Reader Alternative
+* Search Web
+
+**Market Skins**
+* Cryptocurrencies
+* Currencies
+* Stocks
+
+**BOINC Skins**
+* BOINCstats
+* GridcoinStats
+
+**Detailed descriptions for each skin can be found on [DeviantArt site](http://fav.me/dc5kcz5).**
