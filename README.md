@@ -52,9 +52,9 @@ Over time many more gadgets have been added which none of them ever had.
 * GridcoinStats
 
 ## Requirements
-**[Rainmeter 4.3](https://www.rainmeter.net/) and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or newer required to use this suite!**
+[Rainmeter 4.3](https://www.rainmeter.net/) and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or newer required to use this suite!
 
-**Compatible with Windows 7, 8 and 10**
+Compatible with Windows 7, 8 and 10
 
 ## Credits
 * [SilverAzide](https://github.com/SilverAzide/) for the [Gadgets suite](https://github.com/SilverAzide/Gadgets)
