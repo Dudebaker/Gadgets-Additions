@@ -10,8 +10,6 @@ Over time many more gadgets have been added which none of them ever had.
 
 **[Click here to download the latest release (v4.3.1)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.3.1/Gadgets.Additions_4.3.1.rmskin)**
 
-**Detailed descriptions for each skin can be found on [DeviantArt site](http://fav.me/dc5kcz5).**
-
 ## Features
 **Media Skins**
 * Media Control (Local player, Spotify, WebNowPlaying)
@@ -50,6 +48,8 @@ Over time many more gadgets have been added which none of them ever had.
 **BOINC Skins**
 * BOINCstats
 * GridcoinStats
+
+Detailed descriptions for each skin can be found on [DeviantArt site](http://fav.me/dc5kcz5).
 
 ## Requirements
 [Rainmeter 4.3](https://www.rainmeter.net/) and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or newer required to use this suite!
