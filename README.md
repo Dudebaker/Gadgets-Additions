@@ -49,7 +49,7 @@ Over time many more gadgets have been added which none of them ever had.
 * BOINCstats
 * GridcoinStats
 
-Detailed descriptions for each skin can be found on [DeviantArt site](http://fav.me/dc5kcz5).
+Detailed descriptions for each skin can be found on the [DeviantArt site](http://fav.me/dc5kcz5).
 
 ## Requirements
 [Rainmeter 4.3](https://www.rainmeter.net/) and [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or newer required to use this suite!
