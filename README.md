@@ -12,7 +12,7 @@ Over time many more gadgets have been added which none of them ever had.
 
 **Detailed descriptions for each skin can be found on [DeviantArt site](http://fav.me/dc5kcz5).**
 
-## Included Skins
+## Features
 **Media Skins**
 * Media Control (Local player, Spotify, WebNowPlaying)
 * Volume Control with multiple sound analyzers
