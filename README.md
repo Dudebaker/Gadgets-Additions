@@ -5,8 +5,12 @@
 **Desktop monitoring inspired by the AddGadgets.com (and Orbmu2k) Windows Sidebar Gadgets.**
 
 This suite was created as addition to [SilverAzide's suite](https://github.com/SilverAzide/Gadgets) to complete the move of our beloved Addgadgets.com collection from Windows Sidebar-Gadgets to Rainmeter.
+
 Since many things like power control or volume control were never covered by Addgadgets, Orbmu2k's gadgets were a great addition at the time, so some gadgets were also redone for the suite.
+
 Over time many more gadgets have been added which none of them ever had.
+
+---
 
 [![Download](https://img.shields.io/github/v/release/Dudebaker/Gadgets-Additions?logo=github&label=Download%20the%20latest%20version&color=blueviolet&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.3.1/Gadgets.Additions_4.3.1.rmskin)
 
