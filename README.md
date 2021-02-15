@@ -80,7 +80,7 @@ Compatible with Windows 7, 8 and 10
 * [cjdowner](https://github.com/cjdowner/) for the [currency icons](https://github.com/spothq/cryptocurrency-icons) used by the currency skins
 
 ## License
-Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+[Creative Commons Attribution-Noncommercial-Share Alike 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ---
 
