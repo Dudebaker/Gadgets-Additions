@@ -63,11 +63,10 @@ Compatible with Windows 7, 8 and 10
 
 ## Credits
 * [SilverAzide](https://github.com/SilverAzide/) for the [Gadgets suite](https://github.com/SilverAzide/Gadgets)
-* [Raiguard](https://github.com/raiguard/) for the [ModernGadgets suite](https://github.com/raiguard/ModernGadgets) and the [ColorPickerPlus skin](https://github.com/raiguard/ColorPickerPlus) used by the launcher skin and the modded HWiNFO Shared Memory Viewer
+* [Raiguard](https://github.com/raiguard/) for the [ModernGadgets suite](https://github.com/raiguard/ModernGadgets) and the [ColorPickerPlus skin](https://github.com/raiguard/ColorPickerPlus) used by the launcher skin
 * [tjhrulz](https://github.com/tjhrulz/) for the [WebNowPlaying plugin](https://github.com/tjhrulz/WebNowPlaying) used by the media control skin
 * [NighthawkSLO](https://github.com/NighthawkSLO/) for the [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll) used by the Volume Control and ColorPickerPlus skins
 * [TheAzack9](https://github.com/TheAzack9/) for the [FrostedGlass plugin](https://github.com/TheAzack9/FrostedGlass) used for the glass blur/acrylic backgrounds
-* [stangowner](https://www.hwinfo.com/forum/members/stangowner.467/) for the HWiNFO plugin and the HWiNFO Shared Memory Viewer used by the GPU Load and HWiNFO Monitor skins
 * [jsmorley](https://github.com/jsmorley/) for the 
   * [ConfigActive plugin](https://github.com/jsmorley/ConfigActive) used by the launcher skin
   * [ImageSize plugin](https://forum.rainmeter.net/viewtopic.php?t=18822) used by the Earthquakes, Galleries and Media Control skins
