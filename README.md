@@ -25,6 +25,7 @@ You can choose between several different styles through the **launcher skin** to
 * **Modern Gadgets:** Matches mostly the Modern Gadgets style by raiguard
 * **Glass Blur:** Windows 7 styled blurred background (Aero)
 * **Glass Acrylic:** Windows 10 styled blurred background
+
 Both glass variations require Win8/10
 
 Each skin has a settings skin and **can be scaled individually for any resolution**.
