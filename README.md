@@ -393,9 +393,9 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 
 ## Requirements
-* [Rainmeter 4.5.18](https://www.rainmeter.net/) or later.
+* [Rainmeter 4.5.18](https://www.rainmeter.net/) or later
 * [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or later
-* HWiNFO Meter requires [HWiNFO](https://www.hwinfo.com/) 7.02 or later.
+* HWiNFO Meter requires [HWiNFO](https://www.hwinfo.com/) 7.02 or later
 
 
 
