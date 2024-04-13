@@ -239,8 +239,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2c06bda9-ccab-4762-8212-f29c21ff3e4b)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2c06bda9-ccab-4762-8212-f29c21ff3e4b)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/d6aec851-2537-4f3a-bc97-4e80730676bd)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/d6aec851-2537-4f3a-bc97-4e80730676bd)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bae145a9-a954-4aaf-8d33-0447c17132c9)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bae145a9-a954-4aaf-8d33-0447c17132c9)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e1c9868b-824f-4e47-b0b3-436e1aaa3cf0)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e1c9868b-824f-4e47-b0b3-436e1aaa3cf0)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/c351f9cf-81c8-4979-8bd8-c2d7bbb8225c)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/c351f9cf-81c8-4979-8bd8-c2d7bbb8225c)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/5b85451f-459e-413d-aa61-37fd9804c5a1)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/5b85451f-459e-413d-aa61-37fd9804c5a1)
