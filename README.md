@@ -29,6 +29,7 @@ You can choose between several different styles through the **launcher skin** to
 Both glass variations require Win8/10
 
 Each skin has a settings skin and **can be scaled individually for any resolution**.
+
 Detailed descriptions for each setting can be found via tooltips, easily accessible by hovering the setting text with your cursor.
 
 
