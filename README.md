@@ -157,9 +157,9 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 * Downtime counter, average measuring and max latency values
 * Logs timeouts to file (double-click the graph to open the file)
 * Additional skin accessible via the context menu for Ping with DNSlookup (but doesn't work with local stuff)
-* Uses the API from hackertarget.com (~100 requests per day)
-* Tries to parse the A-Record from the DNSlookup and uses this IP as destination
-* Hover the address to see the pinged IP
+  - Uses the API from hackertarget.com (~100 requests per day)
+  - Tries to parse the A-Record from the DNSlookup and uses this IP as destination
+  - Hover the address to see the pinged IP
 
 
 
