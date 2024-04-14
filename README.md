@@ -9,7 +9,7 @@ Since many things like power control or volume control were never covered by Add
 
 Over time, many more gadgets have been added to the suite which none of both awesome collections ever had.
 
-[![Download](https://img.shields.io/github/v/release/Dudebaker/Gadgets-Additions?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.5.0/Gadgets.Additions_4.5.0.rmskin)
+[![Download](https://img.shields.io/github/v/release/Dudebaker/Gadgets-Additions?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.5.1/Gadgets.Additions_4.5.1.rmskin)
 
 ###### Get help on the Rainmeter forums
 
@@ -385,7 +385,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 ## Honorable mentions
 * [SilverAzide](https://github.com/SilverAzide/) for the [Gadgets suite](https://github.com/SilverAzide/Gadgets)
 * [Raiguard](https://github.com/raiguard/) for the [ModernGadgets suite](https://github.com/raiguard/ModernGadgets) and the [ColorPickerPlus skin](https://github.com/raiguard/ColorPickerPlus) used by the launcher skin and the modded HWiNFO Shared Memory Viewer
-* [tjhrulz](https://github.com/tjhrulz/) for the [WebNowPlaying plugin](https://github.com/tjhrulz/WebNowPlaying) used by the media control skin
+* [keifufu](https://github.com/keifufu/) for the [WebNowPlaying plugin](https://github.com/keifufu/WebNowPlaying-Rainmeter) used by the media control skin
 * [NighthawkSLO](https://github.com/NighthawkSLO/) for the [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll) used by the Volume Control and ColorPickerPlus skins
 * [TheAzack9](https://github.com/TheAzack9/) for the [FrostedGlass plugin](https://github.com/TheAzack9/FrostedGlass) used for the glass blur/acrylic backgrounds
 * [stangowner](https://www.hwinfo.com/forum/members/stangowner.467/) for the HWiNFO plugin and the HWiNFO Shared Memory Viewer used by the GPU Load and HWiNFO Monitor skins
@@ -397,7 +397,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
   - [HotKey plugin](https://github.com/brianferguson/HotKey.dll) used by the Keylocks skin
   - [SysColor plugin](https://github.com/brianferguson/SysColor.dll) used for the accent color backgrounds
 * [pasnox](https://github.com/pasnox/) for the [oxygen-icons-package](https://github.com/pasnox/oxygen-icons-png) used through the whole suite
-* [cjdowner](https://github.com/cjdowner/) for the [currency icons](https://github.com/spothq/cryptocurrency-icons) used by the currency skins
+* [spothq](https://github.com/spothq/) for the [currency icons](https://github.com/spothq/cryptocurrency-icons) used by the currency skins
 
 
 
@@ -406,5 +406,5 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 ---
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Dudebaker/Gadgets-Additions/total?logo=github&label=Downloads%20on%20GitHub&color=blue&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.5.0/Gadgets.Additions_4.5.0.rmskin)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Dudebaker/Gadgets-Additions/total?logo=github&label=Downloads%20on%20GitHub&color=blue&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.5.1/Gadgets.Additions_4.5.1.rmskin)
 [![DeviantArt Downloads](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads%20on%20DeviantArt&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fdudebaker%252Fart%252FGadgets-Additions-4-3-1-734942129%26format%3Djson)](http://fav.me/dc5kcz5)
