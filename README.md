@@ -380,7 +380,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)
 
 * Shows up to 10 stocks fetched from [CNBC](https://www.cnbc.com/)
