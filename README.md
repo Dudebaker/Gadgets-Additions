@@ -65,7 +65,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Volume Control with multiple sound analyzers**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/85ba851d-23c5-4ab6-8b34-d818da170ba5)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/85ba851d-23c5-4ab6-8b34-d818da170ba5)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/37cf22f0-9b1d-417b-b063-113971998ce3)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/37cf22f0-9b1d-417b-b063-113971998ce3)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b3a8f09d-a7b1-4e66-993e-2d5db0fe28a6)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b3a8f09d-a7b1-4e66-993e-2d5db0fe28a6)
@@ -89,7 +88,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Console**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/495f9ad9-8e86-4e0d-b6bf-12f9f12e2793)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/495f9ad9-8e86-4e0d-b6bf-12f9f12e2793)
 
 * Run console commands
@@ -98,7 +96,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Gallery**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/87aab225-a655-45bc-a3e0-1b31c8dd29ef)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/87aab225-a655-45bc-a3e0-1b31c8dd29ef)
 
 * Shows a random image out of a local folder
@@ -107,7 +104,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **HWiNFO Monitor**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/06275ed5-6b40-4da7-a6e5-494318b38d3e)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/06275ed5-6b40-4da7-a6e5-494318b38d3e)
 
 * Shows up to 20 HWiNFO sensors ([HWiNFO](https://www.hwinfo.com/) required!)
@@ -120,7 +116,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Keylocks**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/1e417b48-00ca-4426-a941-85baec92a383)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/1e417b48-00ca-4426-a941-85baec92a383)
 * Shows the lock status of Numlock, Capslock and Scrollock
 
@@ -128,7 +123,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Launcher**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/077968f5-94f2-4517-9112-a8d0b01e4875)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/077968f5-94f2-4517-9112-a8d0b01e4875)
 
 * Lists all of my skins with their states (active/inactive)
@@ -142,7 +136,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Notes**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/8ca4089e-0eb1-4fab-9e1d-f134e0bb8dea)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/8ca4089e-0eb1-4fab-9e1d-f134e0bb8dea)
 
 * Shows up to 5 notes with titles
@@ -151,7 +144,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Ping**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6447462d-018f-4e81-9653-b9f774f7d5d0)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6447462d-018f-4e81-9653-b9f774f7d5d0)
 
 * Shows a ping monitor for up to 5 destinations which works with any address/IP
@@ -166,7 +158,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Power Control**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/989d9f5e-dc1f-4504-8904-8656e4becc67)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/989d9f5e-dc1f-4504-8904-8656e4becc67)
 
 * Shows the current power plan
@@ -175,7 +166,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Recycle Bin**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4dc605da-ac98-4df9-8a76-61cf595214a5)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4dc605da-ac98-4df9-8a76-61cf595214a5)
 
 * Shows the recycle bin in elements, size and trash-icon-change
@@ -184,7 +174,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Search**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6812c414-d52a-4f13-89ba-96fffd9f2621)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6812c414-d52a-4f13-89ba-96fffd9f2621)
 
 * Shows a windows search bar
@@ -194,7 +183,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Shortcuts**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7950105d-63c1-4412-a6f1-696d4819ae7d)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7950105d-63c1-4412-a6f1-696d4819ae7d)
 
 * Shows up to 6 shortcuts for files
@@ -205,7 +193,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Shutdown Control**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/451992a7-77f6-48da-bf21-79a56acda2b1)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/451992a7-77f6-48da-bf21-79a56acda2b1)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/dedf1013-51be-48e1-8d4f-db082d7399e0)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/dedf1013-51be-48e1-8d4f-db082d7399e0)
 
@@ -224,7 +211,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **System Info**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ea93ae45-4046-4767-b116-42ba6d9c7aeb)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ea93ae45-4046-4767-b116-42ba6d9c7aeb)
 
 * Shows information about the computer, logged-in user and OS:
@@ -236,13 +222,11 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Usage Monitor**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6326a821-288c-4f9e-b39c-8aa093e623e3)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6326a821-288c-4f9e-b39c-8aa093e623e3)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/fd58dd41-2946-499f-8f17-7b82681536d8)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/fd58dd41-2946-499f-8f17-7b82681536d8)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2c06bda9-ccab-4762-8212-f29c21ff3e4b)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2c06bda9-ccab-4762-8212-f29c21ff3e4b)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/d6aec851-2537-4f3a-bc97-4e80730676bd)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/d6aec851-2537-4f3a-bc97-4e80730676bd)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bae145a9-a954-4aaf-8d33-0447c17132c9)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bae145a9-a954-4aaf-8d33-0447c17132c9)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e1c9868b-824f-4e47-b0b3-436e1aaa3cf0)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e1c9868b-824f-4e47-b0b3-436e1aaa3cf0)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/c351f9cf-81c8-4979-8bd8-c2d7bbb8225c)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/c351f9cf-81c8-4979-8bd8-c2d7bbb8225c)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/5b85451f-459e-413d-aa61-37fd9804c5a1)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/5b85451f-459e-413d-aa61-37fd9804c5a1)
@@ -272,11 +256,9 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Earthquakes**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e4283e37-9bd1-4238-9b6d-af8bbc8417f8)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e4283e37-9bd1-4238-9b6d-af8bbc8417f8)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7248254a-9157-4037-8c5d-a45ec6cd63ec)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7248254a-9157-4037-8c5d-a45ec6cd63ec)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f308eaf0-151a-4e36-b8c1-c8cf47b7afaf)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f308eaf0-151a-4e36-b8c1-c8cf47b7afaf)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/20dfc6bc-74c1-4665-a22d-4b780fd5f8a2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/20dfc6bc-74c1-4665-a22d-4b780fd5f8a2)
 
 * Shows up to 5 earthquakes fetched from [EMSC-CSEM](https://www.emsc-csem.org/)
@@ -295,7 +277,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Gallery Unsplash**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ee4d46e0-82c6-4ce9-afff-1035414a3266)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ee4d46e0-82c6-4ce9-afff-1035414a3266)
 
 * Shows a random image from Unsplash
@@ -304,7 +285,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **RSS Reader**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2f59abf9-0dc9-4c75-9a25-445c3a26a8ad)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2f59abf9-0dc9-4c75-9a25-445c3a26a8ad)
 
 * Shows up to 10 entries of a RSS-feed (Default: BBC)
@@ -313,7 +293,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **RSS Reader Alternative**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bde7a745-01f4-4db4-a18c-72a9d2ccc4ca)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bde7a745-01f4-4db4-a18c-72a9d2ccc4ca)
 
 * Shows up to 10 entries of a RSS-feed (Default: reddit)
@@ -326,7 +305,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Search Web**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ab2ddd9c-fc61-496f-b103-c9f615b7805d)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ab2ddd9c-fc61-496f-b103-c9f615b7805d)
 
 * Shows a web search bar
@@ -338,7 +316,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Cryptocurrencies**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)
 
 * Shows up to 10 cryptocurrencies fetched from [CoinCap.io](https://www.coincap.io/) (~200 request per minute allowed)
@@ -353,7 +330,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Currencies**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6e592577-43cc-44a6-8f5d-e15ec3da59f2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6e592577-43cc-44a6-8f5d-e15ec3da59f2)
 
 * Shows up to 10 currencies fetched from [CNBC](https://www.cnbc.com/)
@@ -367,19 +343,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Stocks**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)
 
 * Shows up to 10 stocks fetched from [CNBC](https://www.cnbc.com/)
 * Use the symbol string out of the given URL from [CNBC](https://www.cnbc.com/)
@@ -394,8 +358,11 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **BOINCstats**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
-
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)
 
 * Shows data fetched from [BOINCstats](https://www.boincstats.com/) for a given CPID
   - Switch between User/Team/Host CPIDs
