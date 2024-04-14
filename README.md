@@ -1,4 +1,4 @@
-[![Preview](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/51e8a8ba-9fd1-4d3d-9670-1a58eafa0dd8)]([https://forum.rainmeter.net/download/file.php?id=31041&mode=view](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/51e8a8ba-9fd1-4d3d-9670-1a58eafa0dd8))
+[![Preview](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f42ff490-b2eb-4443-a1f6-77922229c8f7)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f42ff490-b2eb-4443-a1f6-77922229c8f7)
 
 # Gadgets Additions
 
@@ -41,6 +41,8 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/562412fe-fc3b-434a-a2a7-b898ad834e95)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/562412fe-fc3b-434a-a2a7-b898ad834e95)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4a59703d-7fed-4960-8992-969bd08bff72)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4a59703d-7fed-4960-8992-969bd08bff72)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b8d8b6ac-6b63-428f-aa78-253ab98e3d15)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b8d8b6ac-6b63-428f-aa78-253ab98e3d15)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/853c2480-bac4-45a8-835f-1a3bdf409c84)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/853c2480-bac4-45a8-835f-1a3bdf409c84)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/0a14f096-5515-4403-978c-13aeb28e38c3)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/0a14f096-5515-4403-978c-13aeb28e38c3)
 
 * All in one Media Control with 3 different skins changeable via the context menu
 * **Simple Media Control**:
@@ -368,6 +370,12 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/ff6872f2-f42a-4b60-97cf-1c33ea998843)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e388a9d5-a5ab-4dcf-ab8d-bd5aed454d74)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/3a66f206-b4e9-4d5a-8f1b-02480f42cb03)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/34c99457-5a5f-4e17-9ac7-f653cdadc4b2)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6a4a404a-294d-4b95-aa4e-0b8939f38014)
 
 * Shows up to 10 stocks fetched from [CNBC](https://www.cnbc.com/)
 * Use the symbol string out of the given URL from [CNBC](https://www.cnbc.com/)
@@ -381,6 +389,10 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 ## BOINC Skins
 
 **BOINCstats**
+
+[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
+
+
 * Shows data fetched from [BOINCstats](https://www.boincstats.com/) for a given CPID
   - Switch between User/Team/Host CPIDs
   - Show/hide stats including shares with the context menu
