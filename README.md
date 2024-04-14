@@ -37,7 +37,6 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 **Media Control**
 
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/59c16c90-395b-4492-ba4a-37e33b2ead53)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/562412fe-fc3b-434a-a2a7-b898ad834e95)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/562412fe-fc3b-434a-a2a7-b898ad834e95)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4a59703d-7fed-4960-8992-969bd08bff72)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/4a59703d-7fed-4960-8992-969bd08bff72)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b8d8b6ac-6b63-428f-aa78-253ab98e3d15)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/b8d8b6ac-6b63-428f-aa78-253ab98e3d15)
