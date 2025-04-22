@@ -318,11 +318,14 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)
 
-* Shows up to 10 cryptocurrencies fetched from [CoinCap.io](https://www.coincap.io/) (~200 request per minute allowed)
+* Shows up to 10 cryptocurrencies fetched from [CoinCap.io](https://www.coincap.io/)
 * Use the coin-name out of the the URL from [CoinCap.io](https://www.coincap.io/)
   - Examples: BTC use bitcoin, for BNB use binance-coin
   - Example URL: [https://coincap.io/assets/**bitcoin**](https://coincap.io/assets/bitcoin)
 * Only USD as target is possible!
+* **Requires API-Key!**
+  - Get your key from: [https://pro.coincap.io/dashboard](https://pro.coincap.io/dashboard)
+  - 2500 credits per month are free, you don't have to enter any payment details!
 * Shows icons for From-/To-Currency
 * Color-change on rise/fall
 
