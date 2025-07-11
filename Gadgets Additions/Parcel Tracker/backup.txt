@@ -1,0 +1,435 @@
+[Metadata]
+Name=Parcel Tracker
+Author=Coras|Dudebaker
+Information=Tracks Parcels||Gadgets Additions:|http://fav.me/dc5kcz5
+License=Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+Version=1.0.0
+
+[Rainmeter]
+Group=GadgetsAdditions | Parcels
+ContextTitle3=Settings
+ContextAction3=[!ToggleConfig "#CURRENTCONFIG#\Config" "Settings.ini"]
+ContextTitle4=---
+ContextTitle5=Skin file
+ContextAction5=["#CURRENTPATH##CURRENTFILE#"]
+ContextTitle6=Skin variables file
+ContextAction6=["#@#Variables\Parcels.inc"]
+ContextTitle7=---
+ContextTitle8=Rainmeter                  >
+ContextAction8=[!SkinMenu]
+ContextTitle9=---
+ContextTitle10=Refresh
+ContextAction10=[!Refresh]
+ContextTitle11=Close
+ContextAction11=[!DeactivateConfig]
+
+[Variables]
+; External
+VarPath=#@#Variables\ParcelTracker.inc
+@includeGlobalVariables=#@#Variables\GadgetsUI.inc
+@includeGlobalTemplate=#@#Templates\GadgetsUI.ini
+@includeSettingsButton=#@#Templates\SettingsButton.ini
+@includeSkinVariables=#VarPath#
+; Size
+Width=#WidthInput# 
+HeightParcel=101
+Height=(#HeightTitle# + (#HeightParcel# * #CountParcels#))
+
+; Styles
+[StyleParcelFrame]
+H=94
+Y=15R
+
+[StyleParcel]
+ClipString=1
+H=80
+X=([MeterParcel1Frame:X]+5)
+W=([MeterParcel1Frame:W]-10)
+H=[MeterParcel1:H]
+
+; Titel/Icon Meters
+[MeterTitle]
+Meter=String
+MeterStyle=StyleDefault | StyleScale | StyleTitle
+Text=Parcel Tracker
+
+[MeterParcelsIcon]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleLogo
+ImageName=#@#Images\Logos\parceltracker.png
+
+[MeasureRunQueryParcels]
+Measure=Calc
+Formula=#DoQueryParcels#
+IfCondition=MeasureRunQueryParcels=1
+IfTrueAction=[!CommandMeasure QueryParcel1 "Run"][!CommandMeasure QueryParcel2 "Run"][!CommandMeasure QueryParcel3 "Run"][!CommandMeasure QueryParcel4 "Run"][!CommandMeasure PreQueryParcel1 "Run"][!CommandMeasure PreQueryParcel2 "Run"][!CommandMeasure PreQueryParcel3 "Run"][!CommandMeasure PreQueryParcel4 "Run"]
+
+[MeterLoopTitle]
+Meter=String
+Text=Refreshing in:
+X=55
+Y=4
+StringAlign=Center
+FontSize=10
+FontFace=Seqoe UI
+FontColor=255,255,255,255
+Padding=5,5,5,10
+AntiAlias=1
+Hidden=#HideRefresh#
+
+[MeterLoop]
+Meter=String
+MeasureName=MeasureTimer
+W=10
+H=10
+X=110
+Y=4
+StringAlign=Center
+FontSize=10
+FontColor=255,255,255,255
+FontFace=Seqoe UI
+Padding=5,5,5,10
+AntiAlias=1
+Hidden=#HideRefresh#
+
+[MeterLoopUnit]
+Meter=String
+Text=seconds
+X=150
+Y=4
+StringAlign=Center
+FontSize=10
+FontFace=Seqoe UI
+FontColor=255,255,255,255
+Padding=5,5,5,10
+AntiAlias=1
+Hidden=#HideRefresh#
+
+; Auto Refresh Runner
+[MeasureTimer]
+Measure=Loop
+StartValue=0
+EndValue=#RefreshInterval#
+Increment=1
+InvertMeasure=1
+IfCondition=MeasureTimer=1
+IfTrueAction=[!WriteKeyValue Variables Parcel1Status [MeterParcel1Body] "#VarPath#"][!RefreshGroup Parcels][!Refresh]
+
+; Parcels
+; Parcel1
+[QueryParcel1]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl -s --header "Content-Type: application/json" -request POST --data "{\"shipments\":[{\"trackingId\":\"#Parcel1Tracking#\",\"destinationCountry\":\"UnitedKingdom\"}],\"language\": \"en\",\"apiKey\": \"#ApiKey#\"}" "https://parcelsapp.com/api/v3/shipments/tracking"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[PreQueryParcel1]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl "https://parcelsapp.com/en/tracking/#Parcel1Tracking#"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[QueryParcel1JsonProcess]
+Measure=Plugin
+Plugin=JsonParser
+Source=[QueryParcel1]
+Query="shipments[0].states[0].status"
+BackgroundColor=0,0,0,0
+
+[MeterParcel1Frame]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrame | StyleFrameUnderTitleOneLine | StyleParcelFrame | StyleFrame100
+H=90
+Y=33
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel1Title]
+Meter=String
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrameTitle
+Text=#Parcel1Tracking#
+FontSize=12
+X=40
+Y=27
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel1TitleScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel1Title:X] * #Scale#)
+Y=([MeterParcel1Title:Y] * #Scale#)
+W=([MeterParcel1Title:W] * #Scale#)
+H=([MeterParcel1Title:H] * #Scale#)
+ToolTipTitle=Edit title
+ToolTipText=Left-Click to refresh the tracking status
+
+[MeasureParcel1Title]
+Measure=Plugin
+Plugin=InputText
+FontFace=Seqoe UI
+StringStyle=Italic
+X=([MeterParcel1Frame:X] * #Scale# + 5)
+Y=([MeterParcel1Title:Y] * #Scale#)
+W=([MeterParcel1Frame:W] * #Scale# - 10)
+H=([MeterParcel1Title:H] * #Scale#)
+DefaultValue=#Parcel1Tracking#
+Command1=[!WriteKeyValue Variables Parcel1Title "$UserInput$" "#VarPath#"][!RefreshGroup Parcels][!Refresh]
+
+[MeterParcel1Body]
+Meter=String
+MeterStyle=StyleDefault | StyleScale | StyleFrameText | StyleParcel
+MeasureName=QueryParcel1JsonProcess
+FontSize=12
+Y=42
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel1BodyScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel1Body:X] * #Scale#)
+Y=([MeterParcel1Body:Y] * #Scale#)
+W=([MeterParcel1Body:W] * #Scale#)
+H=([MeterParcel1Body:H] * #Scale#)
+ToolTipTitle=Refresh Tracking
+
+; Parcel2
+[QueryParcel2]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl -s --header "Content-Type: application/json" -request POST --data "{\"shipments\":[{\"trackingId\":\"#Parcel2Tracking#\",\"destinationCountry\":\"UnitedKingdom\"}],\"language\": \"en\",\"apiKey\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIzODE0NGUyMC1mZDcxLTExZWQtOTM5ZC0wZDUyNzVhMTgwMGIiLCJzdWJJZCI6IjY0NzM3YjVmMDc4ZDJhNTEzOTMyZDNkNiIsImlhdCI6MTY4NTI4OTgyM30.eo4Vh5OPbDegB7mrdXePDx-HZdWDcEEI3jnnvnBF8wA\"}" "https://parcelsapp.com/api/v3/shipments/tracking"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[PreQueryParcel2]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl "https://parcelsapp.com/en/tracking/#Parcel2Tracking#"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[QueryParcel2JsonProcess]
+Measure=Plugin
+Plugin=JsonParser
+Source=[QueryParcel2]
+Query="shipments[0].states[0].status"
+BackgroundColor=0,0,0,0
+
+[MeterParcel2Frame]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrame | StyleFrameUnderTitleOneLine | StyleParcelFrame | StyleFrame100
+H=90
+Y=12R
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel2Title]
+Meter=String
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrameTitle
+Text=#Parcel2Tracking#
+FontSize=12
+X=40
+Y=128
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel2TitleScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel2Title:X] * #Scale#)
+Y=([MeterParcel2Title:Y] * #Scale#)
+W=([MeterParcel2Title:W] * #Scale#)
+H=([MeterParcel2Title:H] * #Scale#)
+
+[MeasureParcel2Title]
+Measure=Plugin
+Plugin=InputText
+FontFace=Seqoe UI
+StringStyle=Italic
+X=([MeterParcel2Frame:X] * #Scale# + 5)
+Y=([MeterParcel2Title:Y] * #Scale#)
+W=([MeterParcel2Frame:W] * #Scale# - 10)
+H=([MeterParcel2Title:H] * #Scale#)
+DefaultValue=#Parcel2Tracking#
+Command1=[!WriteKeyValue Variables Parcel2Title "$UserInput$" "#VarPath#"][!RefreshGroup Parcels][!Refresh]
+
+[MeterParcel2Body]
+Meter=String
+MeterStyle=StyleDefault | StyleScale | StyleFrameText | StyleParcel
+MeasureName=QueryParcel2JsonProcess
+FontSize=12
+Y=145
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel2BodyScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel2Body:X] * #Scale#)
+Y=([MeterParcel2Body:Y] * #Scale#)
+W=([MeterParcel2Body:W] * #Scale#)
+H=([MeterParcel2Body:H] * #Scale#)
+ToolTipTitle=Refresh Tracking
+
+; Parcel3
+[QueryParcel3]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl -s --header "Content-Type: application/json" -request POST --data "{\"shipments\":[{\"trackingId\":\"#Parcel3Tracking#\",\"destinationCountry\":\"UnitedKingdom\"}],\"language\": \"en\",\"apiKey\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIzODE0NGUyMC1mZDcxLTExZWQtOTM5ZC0wZDUyNzVhMTgwMGIiLCJzdWJJZCI6IjY0NzM3YjVmMDc4ZDJhNTEzOTMyZDNkNiIsImlhdCI6MTY4NTI4OTgyM30.eo4Vh5OPbDegB7mrdXePDx-HZdWDcEEI3jnnvnBF8wA\"}" "https://parcelsapp.com/api/v3/shipments/tracking"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[PreQueryParcel3]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl "https://parcelsapp.com/en/tracking/#Parcel3Tracking#"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[QueryParcel3JsonProcess]
+Measure=Plugin
+Plugin=JsonParser
+Source=[QueryParcel3]
+Query="shipments[0].states[0].status"
+BackgroundColor=0,0,0,0
+
+[MeterParcel3Frame]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrame | StyleFrameUnderTitleOneLine | StyleParcelFrame | StyleFrame100
+H=90
+Y=12R
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel3Title]
+Meter=String
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrameTitle
+Text=#Parcel3Tracking#
+FontSize=12
+X=40
+Y=231
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel3TitleScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel3Title:X] * #Scale#)
+Y=([MeterParcel3Title:Y] * #Scale#)
+W=([MeterParcel3Title:W] * #Scale#)
+H=([MeterParcel3Title:H] * #Scale#)
+ToolTipTitle=Edit title
+ToolTipText=Left-Click to refresh the tracking status
+
+[MeasureParcel3Title]
+Measure=Plugin
+Plugin=InputText
+FontFace=Seqoe UI
+StringStyle=Italic
+X=([MeterParcel3Frame:X] * #Scale# + 5)
+Y=([MeterParcel3Title:Y] * #Scale#)
+W=([MeterParcel3Frame:W] * #Scale# - 10)
+H=([MeterParcel3Title:H] * #Scale#)
+DefaultValue=#Parcel3Tracking#
+Command1=[!WriteKeyValue Variables Parcel3Title "$UserInput$" "#VarPath#"][!RefreshGroup Parcels][!Refresh]
+
+[MeterParcel3Body]
+Meter=String
+MeterStyle=StyleDefault | StyleScale | StyleFrameText | StyleParcel
+MeasureName=QueryParcel3JsonProcess
+FontSize=12
+Y=250
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel3BodyScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel3Body:X] * #Scale#)
+Y=([MeterParcel3Body:Y] * #Scale#)
+W=([MeterParcel3Body:W] * #Scale#)
+H=([MeterParcel3Body:H] * #Scale#)
+ToolTipTitle=Refresh Tracking
+
+; Parcel4
+[QueryParcel4]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl -s --header "Content-Type: application/json" -request POST --data "{\"shipments\":[{\"trackingId\":\"#Parcel4Tracking#\",\"destinationCountry\":\"UnitedKingdom\"}],\"language\": \"en\",\"apiKey\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIzODE0NGUyMC1mZDcxLTExZWQtOTM5ZC0wZDUyNzVhMTgwMGIiLCJzdWJJZCI6IjY0NzM3YjVmMDc4ZDJhNTEzOTMyZDNkNiIsImlhdCI6MTY4NTI4OTgyM30.eo4Vh5OPbDegB7mrdXePDx-HZdWDcEEI3jnnvnBF8wA\"}" "https://parcelsapp.com/api/v3/shipments/tracking"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[PreQueryParcel4]
+Measure=Plugin
+Plugin=RunCommand
+Parameter=curl "https://parcelsapp.com/en/tracking/#Parcel4Tracking#"
+OutputType=ANSI
+BackgroundColor=0,0,0,0
+
+[QueryParcel4JsonProcess]
+Measure=Plugin
+Plugin=JsonParser
+Source=[QueryParcel4]
+Query="shipments[0].states[0].status"
+BackgroundColor=0,0,0,0
+
+[MeterParcel4Frame]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrame | StyleFrameUnderTitleOneLine | StyleParcelFrame | StyleFrame100
+H=90
+Y=10R
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel4Title]
+Meter=String
+MeterStyle=StyleDefault | StyleDisabled | StyleScale | StyleFrameTitle
+Text=#Parcel4Tracking#
+FontSize=12
+X=40
+Y=333
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel4TitleScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel4Title:X] * #Scale#)
+Y=([MeterParcel4Title:Y] * #Scale#)
+W=([MeterParcel4Title:W] * #Scale#)
+H=([MeterParcel4Title:H] * #Scale#)
+ToolTipTitle=Edit title
+ToolTipText=Left-Click to refresh the tracking status
+
+[MeasureParcel4Title]
+Measure=Plugin
+Plugin=InputText
+FontFace=Seqoe UI
+StringStyle=Italic
+X=([MeterParcel4Frame:X] * #Scale# + 5)
+Y=([MeterParcel4Title:Y] * #Scale#)
+W=([MeterParcel4Frame:W] * #Scale# - 10)
+H=([MeterParcel4Title:H] * #Scale#)
+DefaultValue=#Parcel4Tracking#
+Command1=[!WriteKeyValue Variables Parcel4Title "$UserInput$" "#VarPath#"][!RefreshGroup Parcels][!Refresh]
+
+[MeterParcel4Body]
+Meter=String
+MeterStyle=StyleDefault | StyleScale | StyleFrameText | StyleParcel
+MeasureName=QueryParcel4JsonProcess
+FontSize=12
+Y=355
+Hidden=((#CountParcels# > 0) ? 0 : 1)
+
+[MeterParcel4BodyScaleFix]
+Meter=Image
+Solidcolor=0,0,0,0
+X=([MeterParcel4Body:X] * #Scale#)
+Y=([MeterParcel4Body:Y] * #Scale#)
+W=([MeterParcel4Body:W] * #Scale#)
+H=([MeterParcel4Body:H] * #Scale#)
+ToolTipTitle=Refresh Tracking
+
+; Hover area
+[MeterHoverArea]
+Meter=Image
+MeterStyle=StyleDefault | StyleDisabled | StyleScale
+SolidColor=0,0,0,1
+X=0
+Y=0
+W=(#Width# * #Scale#)
+H=(#Height# * #Scale#)
+MouseOverAction=[!ShowMeterGroup AddRemove][!Redraw]
+MouseLeaveAction=[!HideMeterGroup AddRemove][!Redraw]
