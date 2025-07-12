@@ -9,7 +9,7 @@ Since many things like power control or volume control were never covered by Add
 
 Over time, many more gadgets have been added to the suite which none of both awesome collections ever had.
 
-[![Download](https://img.shields.io/github/v/release/Dudebaker/Gadgets-Additions?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/4.5.1/Gadgets.Additions_4.5.1.rmskin)
+[![Download](https://img.shields.io/github/v/release/Dudebaker/Gadgets-Additions?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/Dudebaker/Gadgets-Additions/releases/download/5.0.0/Gadgets.Additions_5.0.0.rmskin)
 
 ###### Get help on the Rainmeter forums
 
@@ -26,12 +26,19 @@ You can choose between several different styles through the **launcher skin** to
 * **Glass Blur:** Windows 7 styled blurred background (Aero)
 * **Glass Acrylic:** Windows 10 styled blurred background
 
-Both glass variations require Win8/10
+Both glass variations require Win8/10/11
 
 Each skin has a settings skin and **can be scaled individually for any resolution**.
 
 Detailed descriptions for each setting can be found via tooltips, easily accessible by hovering the setting text with your cursor.
 
+## Language
+
+The suite has multi language support, English and German is included.
+
+You can create your own languages by copying the existing files in an own folder and translate them.
+
+You can send me your files or create a pull-request on GitHub so the files will be added to the next version.
 
 ## Media Skins
 
@@ -106,7 +113,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/06275ed5-6b40-4da7-a6e5-494318b38d3e)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/06275ed5-6b40-4da7-a6e5-494318b38d3e)
 
-* Shows up to 20 HWiNFO sensors ([HWiNFO](https://www.hwinfo.com/) required!)
+* Shows an infinite amount of HWiNFO sensors ([HWiNFO](https://www.hwinfo.com/) required!)
 * HowTo configure your sensors: [Rainmeter Documentation](https://docs.rainmeter.net/tips/hwinfo/)
 * The displayed name can be customized for each sensor individually or leave the name-variable blank to use the sensor-name returned by HWiNFO
 * All colors can be customized
@@ -146,7 +153,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6447462d-018f-4e81-9653-b9f774f7d5d0)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6447462d-018f-4e81-9653-b9f774f7d5d0)
 
-* Shows a ping monitor for up to 5 destinations which works with any address/IP
+* Shows a ping monitor for an infinite amount destinations which works with any address/IP
 * Downtime counter, average measuring and max latency values
 * Logs timeouts to file (double-click the graph to open the file)
 * Additional skin accessible via the context menu for Ping with DNSlookup (but doesn't work with local stuff)
@@ -234,18 +241,18 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 * Shows the current system-resource usage by the following categories (perfmon.exe counters):
   - CPU
   - RAM
-  - GPU (works only with Win 10!)
-  - VRAM (works only with Win 10!)
+  - GPU (works only with Win 10/11!)
+  - VRAM (works only with Win 10/11!)
   - IO-READ
   - IO-WRITE
   - Custom
 * The GPU/VRAM entries can be hidden via the context menu, useful for Win7/8 users
-* Each category can be clicked to open another skin which shows the top processes (up to 10)
+* Each category can be clicked to open another skin which shows the top processes (infinite amount)
 * Features:
   - Blacklist (ignore these processes)
   - Whitelist (monitor only these processes)
   - Enable/Disable grouping of process-instances
-  - Process entries to show individually for each category (1-10)
+  - Process entries to show individually for each category
   - Enable/Disable colorizing the entries through all opened instances based on the process-name
   - Enable/Disable custom perfmon.exe counter
   - Settings for custom perfmon.exe counter (Name, Category, Counter, Percent, Append)
@@ -257,11 +264,9 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 **Earthquakes**
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e4283e37-9bd1-4238-9b6d-af8bbc8417f8)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/e4283e37-9bd1-4238-9b6d-af8bbc8417f8)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7248254a-9157-4037-8c5d-a45ec6cd63ec)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/7248254a-9157-4037-8c5d-a45ec6cd63ec)
-[![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f308eaf0-151a-4e36-b8c1-c8cf47b7afaf)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/f308eaf0-151a-4e36-b8c1-c8cf47b7afaf)
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/20dfc6bc-74c1-4665-a22d-4b780fd5f8a2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/20dfc6bc-74c1-4665-a22d-4b780fd5f8a2)
 
-* Shows up to 5 earthquakes fetched from [EMSC-CSEM](https://www.emsc-csem.org/)
+* Shows an infinite amount of earthquakes fetched from [EMSC-CSEM](https://www.emsc-csem.org/)
 * As default there will be shown all earthquakes world-wide but this can be changed to a regional feed too!
 * Use their configurator and copy the resulting Feed URL into the settings skin: [Configurator](https://www.seismicportal.eu/fdsn-wsevent.html)
 * IMPORTANT: use json as format in the configurator!
@@ -270,7 +275,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
   - Show specific magnitude and distance values in red color
   - Globe-Button to open another skin which shows an image of this earthquake which is zoom-able in/out 3 stages (globe, regional, local)
   - Maps-Button to open a browser with google maps on this position
-* Europe/World-Buttons to open skins which shows all earthquakes in the last 24h Europe/World-wide (images use iris.edu as source)
+* Europe/World-Buttons to open links
 * Miles/Kilometers can be set
 
 
@@ -287,7 +292,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2f59abf9-0dc9-4c75-9a25-445c3a26a8ad)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/2f59abf9-0dc9-4c75-9a25-445c3a26a8ad)
 
-* Shows up to 10 entries of a RSS-feed (Default: BBC)
+* Shows an infinite amount of entries of a RSS-feed (Default: BBC)
 
 
 
@@ -295,7 +300,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bde7a745-01f4-4db4-a18c-72a9d2ccc4ca)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/bde7a745-01f4-4db4-a18c-72a9d2ccc4ca)
 
-* Shows up to 10 entries of a RSS-feed (Default: reddit)
+* Shows an infinite amount of entries of a RSS-feed (Default: reddit)
 * Mainly created for reddit but can be used for other atom or uncommon feeds
 * Difference to RSS Reader:
   - The date format on each feed-entry has to be "yyyy-mm-dd**T**h:i:s" instead of the long datetime
@@ -318,7 +323,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6970a820-8260-459e-9973-d3ad2534720a)
 
-* Shows up to 10 cryptocurrencies fetched from [CoinCap.io](https://www.coincap.io/)
+* Shows an infinite amount of cryptocurrencies fetched from [CoinCap.io](https://www.coincap.io/)
 * Use the coin-name out of the the URL from [CoinCap.io](https://www.coincap.io/)
   - Examples: BTC use bitcoin, for BNB use binance-coin
   - Example URL: [https://coincap.io/assets/**bitcoin**](https://coincap.io/assets/bitcoin)
@@ -335,11 +340,11 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6e592577-43cc-44a6-8f5d-e15ec3da59f2)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/6e592577-43cc-44a6-8f5d-e15ec3da59f2)
 
-* Shows up to 10 currencies fetched from [CNBC](https://www.cnbc.com/)
+* Shows an infinite amount of currencies fetched from [CNBC](https://www.cnbc.com/)
 * Use the symbol string out of the given URL from [CNBC](https://www.cnbc.com/)
   - Examples: USDEUR, GBP=, EUR=, JPY=, EURCH=
   - Example URL: [https://www.cnbc.com/quotes/?symbol=**USDEUR**](https://www.cnbc.com/quotes/?symbol=USDEUR)
-* Shows icons for From-/To-Currency (uses the same batch of icon like the Cryptocurrencies skin)
+* Shows icons for From-/To-Currency
 * Color-change on rise/fall
 
 
@@ -348,10 +353,11 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 [![](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)](https://github.com/Dudebaker/Gadgets-Additions/assets/2338122/33f07e46-d69a-4fc8-a772-956f65ce0f40)
 
-* Shows up to 10 stocks fetched from [CNBC](https://www.cnbc.com/)
+* Shows an infinite amount of stocks fetched from [CNBC](https://www.cnbc.com/)
 * Use the symbol string out of the given URL from [CNBC](https://www.cnbc.com/)
   - Examples: .DJI, DAX, GOOGL, MSFT, .SPX, @GC.1
   - Example URL: [https://www.cnbc.com/quotes/**.DJI**](https://www.cnbc.com/quotes/.DJI)
+* Shows icons for the currency
 * Color-change on rise/fall
 * Shown names can be overridden in the skin variables file
 
@@ -379,7 +385,7 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 
 
 ## Requirements
-* [Rainmeter 4.5.18](https://www.rainmeter.net/) or later
+* [Rainmeter 4.5.23](https://www.rainmeter.net/) or later
 * [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or later
 * HWiNFO Meter requires [HWiNFO](https://www.hwinfo.com/) 7.02 or later
 
@@ -399,8 +405,8 @@ Detailed descriptions for each setting can be found via tooltips, easily accessi
 * [brianferguson](https://github.com/brianferguson/) for the 
   - [HotKey plugin](https://github.com/brianferguson/HotKey.dll) used by the Keylocks skin
   - [SysColor plugin](https://github.com/brianferguson/SysColor.dll) used for the accent color backgrounds
+* [eclectic-tech](https://github.com/eclectic-tech) for the [Template and Generator system](https://forum.rainmeter.net/viewtopic.php?p=175660#p175660)
 * [pasnox](https://github.com/pasnox/) for the [oxygen-icons-package](https://github.com/pasnox/oxygen-icons-png) used through the whole suite
-* [spothq](https://github.com/spothq/) for the [currency icons](https://github.com/spothq/cryptocurrency-icons) used by the currency skins
 
 
 
