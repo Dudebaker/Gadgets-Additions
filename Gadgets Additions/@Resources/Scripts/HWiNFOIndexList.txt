@@ -1,0 +1,68 @@
+HWiNFO Sensor Entry Index List
+
+Index Sensor                                             Label                                    Value
+----- -------------------------------------------------- ---------------------------------------- ---------------
+0     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 0 T0 Effektiver Takt                135.1 MHz
+1     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 0 T1 Effektiver Takt                32.3 MHz
+2     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 1 T0 Effektiver Takt                43.7 MHz
+3     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 1 T1 Effektiver Takt                26.2 MHz
+4     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 2 T0 Effektiver Takt                90.8 MHz
+5     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 2 T1 Effektiver Takt                37.8 MHz
+6     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 3 T0 Effektiver Takt                253.4 MHz
+7     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 3 T1 Effektiver Takt                343.2 MHz
+8     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 4 T0 Effektiver Takt                45.2 MHz
+9     CPU [#0]: AMD Ryzen 7 5800X3D                      Core 4 T1 Effektiver Takt                99.7 MHz
+10    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 5 T0 Effektiver Takt                121.0 MHz
+11    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 5 T1 Effektiver Takt                121.1 MHz
+12    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 6 T0 Effektiver Takt                26.1 MHz
+13    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 6 T1 Effektiver Takt                63.9 MHz
+14    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 7 T0 Effektiver Takt                493.2 MHz
+15    CPU [#0]: AMD Ryzen 7 5800X3D                      Core 7 T1 Effektiver Takt                455.8 MHz
+16    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU (Tctl/Tdie)                          51.6 ¯C
+17    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core0 (CCD1)                             38.9 ¯C
+18    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core1 (CCD1)                             40.1 ¯C
+19    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core2 (CCD1)                             38.3 ¯C
+20    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core3 (CCD1)                             41.8 ¯C
+21    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core4 (CCD1)                             38.3 ¯C
+22    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core5 (CCD1)                             40.1 ¯C
+23    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core6 (CCD1)                             37.7 ¯C
+24    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Core7 (CCD1)                             42.6 ¯C
+32    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            L3-Temperaturen                          40.2 ¯C
+25    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU IOD Hotspot                          38.8 ¯C
+26    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU-Kernspannung (SVI2 TFN)              1.237 V
+27    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU-Gesamt-Leistungsaufnahme             28.540 W
+28    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU PPT Limit                            19.7 %
+29    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            CPU TDC-Grenzwert                        6.4 %
+30    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Thermal Limit                            50.5 %
+31    CPU [#0]: AMD Ryzen 7 5800X3D: Enhanced            Thermische Drosselung (HTC)              Nein
+33    ASRock X570S PG Riptide (Nuvoton NCT6796D)         Hauptplatine                             41.0 ¯C
+34    ASRock X570S PG Riptide (Nuvoton NCT6796D)         CPU1                                     570 RPM
+35    ASRock X570S PG Riptide (Nuvoton NCT6796D)         CPU2                                     587 RPM
+36    DIMM Temperatur-Sensor                             DIMM[0] Temperatur (P0 CHANNEL A/DIMM 0) 41.0 ¯C
+37    DIMM Temperatur-Sensor                             DIMM[1] Temperatur (P0 CHANNEL A/DIMM 1) 41.2 ¯C
+38    DIMM Temperatur-Sensor                             DIMM[2] Temperatur (P0 CHANNEL B/DIMM 0) 41.6 ¯C
+39    DIMM Temperatur-Sensor                             DIMM[3] Temperatur (P0 CHANNEL B/DIMM 1) 41.2 ¯C
+40    S.M.A.R.T.: Samsung SSD 840 EVO 500GB (S1DHNSAF... Festplatten-Luftstromtemperatur          35 ¯C
+41    S.M.A.R.T.: SanDisk SSD PLUS 2000GB (23441H4418... Laufwerkstemperatur                      36 ¯C
+42    S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S21JNXAG... Festplatten-Luftstromtemperatur          32 ¯C
+43    S.M.A.R.T.: WD_BLACK SN850P for PS5 2000GB (240... Laufwerkstemperatur                      44 ¯C
+44    S.M.A.R.T.: Force MP510 (19368238000128884769) ... Laufwerkstemperatur                      44 ¯C
+45    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU-Temperatur                           53.7 ¯C
+46    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU-Hot-Spot-Temperatur                  63.0 ¯C
+47    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  Thermischer GPU-Grenzwert                84.0 ¯C
+48    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU-Kern-Spannung                        0.890 V
+49    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU LÅfter1                              0 RPM
+50    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU LÅfter2                              0 RPM
+51    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Leistung                             22.320 W
+52    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU-Takt                                 210.0 MHz
+53    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Speicher-Takt                        50.6 MHz
+54    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Kernlast                             0.0 %
+55    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  Auslastung des GPU Speicher-Controllers  18.0 %
+56    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Video-Engine-Last                    0.0 %
+57    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Speichernutzung                      9.1 %
+63    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU D3D Auslastungen                     0.3 %
+58    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Video Decode 0 Auslastung            0.0 %
+59    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  GPU Video Encode 0 Auslastung            0.0 %
+60    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  VerfÅgbarer GPU-Speicher                 11163 MB
+61    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  Zugeteilter GPU-Speicher                 1119 MB
+62    GPU [#0]: NVIDIA GeForce RTX 4070: Zotac RTX 4070  PCIe-Link-Geschwindigkeit                2.5 GT/s
