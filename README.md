@@ -135,6 +135,7 @@ You can send me your files or create a pull-request on GitHub so the files will 
 * Lists all of my skins with their states (active/inactive)
 * Easy way to open/close each skin
 * Enable/Disable custom context menu suite wide
+* Language selection
 * Select the style suite wide
 * Change the used colors via RGBA values or ColorPicker
 * If there's a skin-suite update available a message will appear
