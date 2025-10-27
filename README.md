@@ -60,10 +60,8 @@ You can send me your files or create a pull-request on GitHub so the files will 
 * **Web Media Control**:
   - Shows metadata from a web media player and the cover-image if available, hover the skin to reveal the controls
   - A browser extension has to be installed! [Chrome](https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/)
-  - Supported sites: Amazon Music, Deezer, Google Play Music, Pandora, Plex (Music), PocketCasts, Soundcloud, Spotify, Tidal, Twitch, Youtube
-  - Additionally the skin supports the Spotify Desktop App (including the cover what does not work with the Local Media Control), but sadly this doesn't work out of the box...
-    - Patch your Spotify Desktop installation with [Spicetify](https://spicetify.app/docs/advanced-usage/extensions/#web-now-playing).
-    - This has to be redone each time the Spotify app gets an update.
+  - Supported sites: Amazon Music, Deezer, Google Play Music, Pandora, Plex (Music), PocketCasts, Soundcloud, Spotify, Tidal, Twitch, Youtube, ...
+  - Additionally the skin supports the Spotify Desktop App (including the cover what does not work with the Local Media Control)
 * Shows Title progression in percent, time and background-bar
 * The cover image can be undocked to an independent skin with a click on the icon located top left or with the context menu
 * Volume control via mouse wheel
